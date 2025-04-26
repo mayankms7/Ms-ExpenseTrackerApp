@@ -92,7 +92,6 @@ To run this project, you will need to add the following environment variables to
 create config.env file in it and all all env variables there.
 
 `DATABASE` : Your MongoDB Connection String
-
 `PORT`: PORT number
 
 ## Tech Stack
